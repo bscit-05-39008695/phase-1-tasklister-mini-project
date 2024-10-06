@@ -30,4 +30,5 @@ GitHub
 ###Support and Contact Details
 https://github.com/bscit-05-39008695
 
-License
+###License
+Copyright (c) 2024 aron mutai
